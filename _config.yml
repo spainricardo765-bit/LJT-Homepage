@@ -14,7 +14,6 @@ title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"
 url                      : https://spainricardo765-bit.github.io # The base hostname & protocol for your site
-timezone                 : Etc/UTC
 baseurl                  : "/LJT-Homepage" # the subpath of your site
 repository               : "spainricardo765-bit/LJT-Homepage"
 
